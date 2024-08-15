@@ -2,6 +2,10 @@ body {
     font-family: Helvetica;
     margin: 0;
 }
+a {
+    text-decoration: none;
+    color: #e5be37;
+}
 .header-loja { 
     background-color: #0c245c;
     border-bottom: 1px solid #ccc;
