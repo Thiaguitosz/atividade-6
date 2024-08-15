@@ -1,32 +1,26 @@
 body {
     font-family: Helvetica;
     margin: 0;
-  }
-  a {
-    text-decoration: none;
-    color: #000;
-  }
-  .header-loja { 
+}
+.header-loja { 
+    background-color: #0c245c;
     border-bottom: 1px solid #ccc;
     padding: .5em 1em;
     display: flex;
     justify-content: space-between;
-  }
+}
   
-  .logo img {
+.logo img {
     font-size: 1.5em;
     margin: .6em 0;
     display: inline-block;
-  }
+}
   
   
-  .nav-do-site ul, 
-  .nav-do-site li {
-    margin: 0; 
-    padding: 0;
-  }
+.nav-do-site ul, 
+.nav-do-site li {
+}
   
-  .nav-do-site li {
+.nav-do-site li {
     display: inline-block;
-    margin: 1.4em 1em 1em 1em;
-  }
+}
