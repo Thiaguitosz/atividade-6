@@ -13,20 +13,20 @@ body {
     justify-content: space-between;
   }
   
-  .site-identity h1 {
+  .logo img {
     font-size: 1.5em;
     margin: .6em 0;
     display: inline-block;
   }
   
   
-  .site-navigation ul, 
-  .site-navigation li {
+  .nav-do-site ul, 
+  .nav-do-site li {
     margin: 0; 
     padding: 0;
   }
   
-  .site-navigation li {
+  .nav-do-site li {
     display: inline-block;
     margin: 1.4em 1em 1em 1em;
   }
