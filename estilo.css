@@ -13,7 +13,6 @@ header img {
     width: 150px;
 }
 nav ul {
-    list-style-type: none;
     padding: 0;
 }
 nav ul li {
@@ -56,4 +55,10 @@ footer {
     background-color: #f1f1f1;
     padding: 10px 20px;
     text-align: center;
+}
+
+.produto img {
+    max-width: 100%;
+    height: auto;
+    width: 350px;
 }
